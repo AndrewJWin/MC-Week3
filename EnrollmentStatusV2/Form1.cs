@@ -25,6 +25,7 @@ namespace EnrollmentStatus
             InitializeComponent();
         }
 
+        // "trkCredits" Scroll function, evalutates the status of a student based on how many credits they set the trackbar to.
         private void trkCredits_Scroll(object sender, EventArgs e)
         {
             int credits = trkCredits.Value;
