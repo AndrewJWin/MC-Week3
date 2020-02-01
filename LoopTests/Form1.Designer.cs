@@ -97,7 +97,7 @@
             this.Controls.Add(this.btnDoWhile);
             this.Controls.Add(this.btnWhile);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Loop Examples";
             ((System.ComponentModel.ISupportInitialize)(this.trkLoops)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
